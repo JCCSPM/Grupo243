@@ -4,7 +4,7 @@
 ### Requisitos académicos  
 
 * Conocimientos generales de programación
- * Conocimientos basicos de estadística
+*  Conocimientos basicos de estadística
 * Conocimientos basicos de matemáticas
 
 
